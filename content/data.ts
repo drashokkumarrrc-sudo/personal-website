@@ -29,7 +29,7 @@ export const profile = {
   phone: "+91 94506 19024",
   location: "Prayagraj, Uttar Pradesh, India",
   // Save a square photo as public/profile.jpg and set this to "/profile.jpg". Empty shows the initials.
-  avatar: "",
+  avatar: "/profile.jpg",
   // The PDF in public/ behind the "Download CV" buttons. Set to "" to hide them.
   cv: "/Dr_Ashok_Kumar_CV.pdf",
   interests: [
